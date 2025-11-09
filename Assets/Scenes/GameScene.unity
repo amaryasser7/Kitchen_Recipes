@@ -577,9 +577,6 @@ MonoBehaviour:
   move_speed: 7
   animator: {fileID: 774542374}
   gameInput: {fileID: 349278112}
-  countersLayerMask:
-    serializedVersion: 2
-    m_Bits: 0
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -640,17 +637,17 @@ PrefabInstance:
     - target: {fileID: 3294758251327466532, guid: 1c5dda3c7cd3cf742afcade5419faeab,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.632
+      value: -0.17
       objectReference: {fileID: 0}
     - target: {fileID: 3294758251327466532, guid: 1c5dda3c7cd3cf742afcade5419faeab,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.01
       objectReference: {fileID: 0}
     - target: {fileID: 3294758251327466532, guid: 1c5dda3c7cd3cf742afcade5419faeab,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1.95
       objectReference: {fileID: 0}
     - target: {fileID: 3294758251327466532, guid: 1c5dda3c7cd3cf742afcade5419faeab,
         type: 3}
@@ -714,7 +711,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 994266167}
-  - component: {fileID: 994266168}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -738,24 +734,6 @@ Transform:
   - {fileID: 774542373}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &994266168
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 994266166}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f54a0cd296ce98c43be7338dc663cd30, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  move_speed: 7
-  animator: {fileID: 0}
-  gameInput: {fileID: 0}
-  countersLayerMask:
-    serializedVersion: 2
-    m_Bits: 0
 --- !u!1 &1062774719
 GameObject:
   m_ObjectHideFlags: 0
@@ -1090,6 +1068,11 @@ PrefabInstance:
     - target: {fileID: 3308743941381097636, guid: 0866a0b6498185a41871127b7d4e0d3b,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5082449435458719240, guid: 0866a0b6498185a41871127b7d4e0d3b,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5608695416601580041, guid: 0866a0b6498185a41871127b7d4e0d3b,

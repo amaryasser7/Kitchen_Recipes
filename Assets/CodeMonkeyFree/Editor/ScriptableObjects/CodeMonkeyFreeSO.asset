@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1762593399
+  lastShownTimestamp: 1762717362
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1762593399
+  checkedLastUpdateTimestamp: 1762717362
   lastQOTDResponse:
     questionId: 239
     questionText: What is the difference between Action&lt;float&gt; and Func&lt;float&gt;
@@ -30,18 +30,18 @@ MonoBehaviour:
       returns float
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1762593399
+  lastQotdTimestamp: 1762717362
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/gameDevReport_2.png
     topText: Stay up to date with the latest in Game Dev straight to your inbox!
     topLink: gamedevreport
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1762593399
+  lastDynamicHeaderTimestamp: 1762717362
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1762593399
+  websiteLatestMessageTimestamp: 1762717362
   websiteLatestVideos:
     videos:
     - youTubeId: 0zljaBBiOXo
@@ -52,4 +52,4 @@ MonoBehaviour:
       title: Do GAMERS Like Pixel Art?
     - youTubeId: SFVSgORBgOg
       title: How do you REFACTOR code? (EXTREMELY Important!)
-  websiteLatestVideosTimestamp: 1762593399
+  websiteLatestVideosTimestamp: 1762717362
