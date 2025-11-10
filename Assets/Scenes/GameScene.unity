@@ -464,6 +464,12 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -6056248845920898285, guid: 0866a0b6498185a41871127b7d4e0d3b,
+        type: 3}
+      propertyPath: tomatoprefab
+      value: 
+      objectReference: {fileID: 2525571721748485134, guid: 7a4d79d330b203847a595d55c2312e50,
+        type: 3}
     - target: {fileID: 3308743941381097636, guid: 0866a0b6498185a41871127b7d4e0d3b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -647,7 +653,7 @@ PrefabInstance:
     - target: {fileID: 3294758251327466532, guid: 1c5dda3c7cd3cf742afcade5419faeab,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.95
+      value: -0.03
       objectReference: {fileID: 0}
     - target: {fileID: 3294758251327466532, guid: 1c5dda3c7cd3cf742afcade5419faeab,
         type: 3}
