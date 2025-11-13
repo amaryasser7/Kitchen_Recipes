@@ -1,7 +1,8 @@
 # Kitchen_Recipes
 ## Description 
 This project I made while learning Unity from scratch. 
-(Until now, it's still a demo)
+(Until now, it's still a demo)<br>
+In this game, you can move, collide with the counter and even interact with it by putting a tomato or cheese block on counter
 ## Controllers
 - W --> Move forward
 - S --> Move backward
