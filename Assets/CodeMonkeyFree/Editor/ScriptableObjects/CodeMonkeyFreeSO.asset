@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1764244340
+  lastShownTimestamp: 1764336642
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1764244340
+  checkedLastUpdateTimestamp: 1764336642
   lastQOTDResponse:
     questionId: 246
     questionText: 'When would this code cause an error?
@@ -46,18 +46,18 @@ MonoBehaviour:
     answerC: When instanceList has exactly two elements
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1764244340
+  lastQotdTimestamp: 1764336642
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cmBlackFriday2025.png
     topText: Get my BLACK FRIDAY Bundle! Available now with Live Chat!
     topLink: blackfriday
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1764244340
+  lastDynamicHeaderTimestamp: 1764336642
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1764244340
+  websiteLatestMessageTimestamp: 1764336642
   websiteLatestVideos:
     videos:
     - youTubeId: UzddfPG2zr4
@@ -68,4 +68,4 @@ MonoBehaviour:
       title: Make Games FASTER (90% Compilation Speed BOOST!)
     - youTubeId: 6JDErIMOUjM
       title: Unity INSIDE Unreal Engine?! WHAT IS GOING ON?!
-  websiteLatestVideosTimestamp: 1764244340
+  websiteLatestVideosTimestamp: 1764336642
