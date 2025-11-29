@@ -17,3 +17,4 @@ In this game, you can move, collide with the counter and even interact with it b
 - Left stick (Controllers) --> Move
 
 - E --> Interact with object
+- F --> Interaect Alternative
